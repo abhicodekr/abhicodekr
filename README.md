@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhicodekr&label=Profile%20views&color=0e75b6&style=flat" alt="abhicodekr" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abhihekkumar" target="blank"><img src="https://img.shields.io/twitter/follow/abhihekkumar?logo=twitter&style=for-the-badge" alt="abhihekkumar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abhishekdevcode" target="blank"><img src="https://img.shields.io/twitter/follow/abhihekcode?logo=twitter&style=for-the-badge" alt="abhishekdevcode" /></a> </p>
 
 - 💬 Ask me about **html, css, bootsrap, sass, javascript,**
 
