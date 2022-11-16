@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/abhishekdevcode" target="blank"><img src="https://img.shields.io/twitter/follow/abhihekcode?logo=twitter&style=for-the-badge" alt="abhishekdevcode" /></a> </p>
 
+- 🔭 I’m currently working on **MERN Project**
+
+- 🌱 I’m currently learning **Reactjs, Java8**
+
 - 💬 Ask me about **html, css, bootsrap, sass, javascript,**
 
 - 📫 How to reach me **abhisek.kumar84@gmail.com**
