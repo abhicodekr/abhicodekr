@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **MERN Project**
 
-- 🌱 I’m currently learning **Reactjs, Java8**
+- 🌱 I’m currently learning **Java8**
 
-- 💬 Ask me about **html, css, bootsrap, sass, javascript,**
+- 💬 Ask me about **html, css, bootsrap, sass, javascript**
 
 - 📫 How to reach me **abhisek.kumar84@gmail.com**
 
