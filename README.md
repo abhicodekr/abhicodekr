@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+<h3 align="center">A passionate frontend developer from India !!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhicodekr&label=Profile%20views&color=0e75b6&style=flat" alt="abhicodekr" /> </p>
+
 # 💫 About Me:
 🔭 I’m currently working on MERN project.<br>👯 I’m looking to collaborate on Full Stack Development.<br>🤝 I’m looking for help with related to code.<br>🌱 I’m currently learning AngularJs.<br>💬 Ask me about html5, css3, javascript, reactjs.<br>⚡ Fun fact learning Code even in dreams.
 
