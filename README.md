@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on MERN project.<br>👯 I’m looking to collaborate on Full Stack Development.<br>🤝 I’m looking for help with related to code.<br>🌱 I’m currently learning AngularJs.<br>💬 Ask me about html5, css3, javascript, reactjs.<br>⚡ Fun fact learning Code even in dreams.
+- 🔭 I’m currently working on MERN project.<br> - 👯 I’m looking to collaborate on Full Stack Development.<br> - 🤝 I’m looking for help with related to code.<br> - 🌱 I’m currently learning AngularJs.<br> - 💬 Ask me about html5, css3, javascript, reactjs.<br> - ⚡ Fun fact learning Code even in dreams.
 
 
 ## 🌐 Socials:
