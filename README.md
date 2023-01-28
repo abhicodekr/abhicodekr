@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:dfc2fb,100:aeadfd&height=120&section=header" /></div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:dfc2fb,100:aeadfd&height=120&section=header" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=aeadfd&center=true&width=850&lines=%22No+great+thing+is+created+suddenly.%22+-+Epictetus" alt="Typing No great thing is created suddenly - Epictetus" /></a></div>
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate Full Stack Software developer from India !!</h3>
